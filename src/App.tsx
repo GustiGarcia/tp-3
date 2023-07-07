@@ -1,12 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Ejercicio3 from './components/Ejercicio3';
+import { TrabajoPractico3 } from './components/TrabajoPractico3';
 
 function App() {
   return (
     <div className="App">
-     <Ejercicio3/>
+     <TrabajoPractico3/>
     </div>
   );
 }
